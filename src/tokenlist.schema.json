@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/pollum-io/syscoin-tokenlist-sdk/blob/master/tokenlist.schema.json",
+  "$id": "https://github.com/Pollum-io/syscoin-tokenlist-sdk/blob/master/src/tokenlist.schema.json",
   "title": "Pegasys Token List",
   "description": "Schema for lists of tokens compatible with the Pegasys Interface",
   "definitions": {

@@ -19,7 +19,7 @@ Tokens on token lists, and token lists themselves, are tagged so that users can 
 
 ## JSON Schema $id
 
-The JSON schema ID is [tokenlist.schema.json](https://github.com/pollum-io/syscoin-tokenlist-sdk/blob/master/tokenlist.schema.json).
+The JSON schema ID is [tokenlist.schema.json](https://github.com/Pollum-io/syscoin-tokenlist-sdk/blob/master/src/tokenlist.schema.json).
 
 ## Validating token lists
 
