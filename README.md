@@ -1,6 +1,6 @@
 # syscoin-tokenlist-sdk
 
-[![npm](https://img.shields.io/npm/v/@pollum-io/syscoin-tokenlist-sdk)](https://unpkg.com/@pollum-io/psyscoin-tokenlist-sdk@latest/)
+[![npm](https://img.shields.io/npm/v/@pollum-io/syscoin-tokenlist-sdk)](https://unpkg.com/@pollum-io/syscoin-tokenlist-sdk@latest/)
 
 This package includes a JSON schema for token lists, and TypeScript utilities for working with token lists.
 
